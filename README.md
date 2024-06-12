@@ -7,14 +7,7 @@
 
 ## ✨ Motivação
 
-Desenvolver habilidades práticas com bancos de dados.
-
-## ⚠️ Aviso
-> Status: Em andamento...
-
-### Ainda falta:
-- Tradução, e consequentemente, reformatação;
-- Adição de comentários.
+Desenvolver habilidades práticas com bancos de dados SQL.
 
 ## 🏆 Agradecimentos
 
